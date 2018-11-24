@@ -63,6 +63,6 @@
   <hr>
   <hr>
   <h3>6. NOTE</h3>
-  <p>The code for the software has not been uploaded due to privacy and security concerns. Sorry for the inconvenience.</p>
+  <p>The code for the software has not been uploaded due to privacy and security concerns. Sorry for the inconvenience.<br> The only code-document uploaded is "root.py", only for giving a glimpse of the design of the software. This "root.py" is the main window which invokes the other choices upon being choosed by the user of the software.</p>
   <hr>
   <hr>
