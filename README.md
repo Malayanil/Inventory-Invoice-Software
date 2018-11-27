@@ -12,7 +12,7 @@
   <hr>
 
 <h3>1. Introduction</h3>
-<p>This is an Inventory Management System tied up with a Invoice Generation System for a store. It can be used for a small convenient store after certain modifications to the GUI. It is a <b>SINGLE USER, HOST ONLY<b> software, not intended for customer use. It has been compiled into a Windows Executable file. The development details are stated below and sample snapshots are on display too.</p>
+<p>This is an Inventory Management System tied up with a Invoice Generation System for a store. It can be used for a small convenient store after certain modifications to the GUI. It is a <b>SINGLE USER, HOST ONLY</b> software, not intended for customer use. It has been compiled into a Windows Executable file. The development details are stated below and sample snapshots are on display too.</p>
 <hr>
 <hr>
 <h3>2. Developed with: </h3>
